@@ -2,4 +2,6 @@
 
 Website with recipes
 
-This project will demonstrate basic HTML and CSS knowledge, including functionalities such as image and links.
+This project demonstrate basic HTML and CSS styling. The grid layout was used to position the elements and the site was made responsive.
+
+It includes a main page, which links to 3 different pages describing the recipes.
